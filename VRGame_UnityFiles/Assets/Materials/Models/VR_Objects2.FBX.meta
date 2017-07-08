@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: 67286c76d1444f14db47228209d24c26
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_Ramp
+    100004: DoorFrame
+    100006: Floor_Segment
+    100008: Large_Cube
+    100010: Long_Segment
+    100012: MiniCube
+    100014: MiniWall
+    100016: Platform_Step
+    100018: //RootNode
+    400000: Cube
+    400002: Cube_Ramp
+    400004: DoorFrame
+    400006: Floor_Segment
+    400008: Large_Cube
+    400010: Long_Segment
+    400012: MiniCube
+    400014: MiniWall
+    400016: Platform_Step
+    400018: //RootNode
+    2300000: Cube
+    2300002: Cube_Ramp
+    2300004: DoorFrame
+    2300006: Floor_Segment
+    2300008: Large_Cube
+    2300010: Long_Segment
+    2300012: MiniCube
+    2300014: MiniWall
+    2300016: Platform_Step
+    3300000: Cube
+    3300002: Cube_Ramp
+    3300004: DoorFrame
+    3300006: Floor_Segment
+    3300008: Large_Cube
+    3300010: Long_Segment
+    3300012: MiniCube
+    3300014: MiniWall
+    3300016: Platform_Step
+    4300000: Floor_Segment
+    4300002: Long_Segment
+    4300004: Platform_Step
+    4300006: Cube
+    4300008: Large_Cube
+    4300010: Cube_Ramp
+    4300012: MiniCube
+    4300014: DoorFrame
+    4300016: MiniWall
+    6400000: Cube
+    6400002: Cube_Ramp
+    6400004: DoorFrame
+    6400006: Floor_Segment
+    6400008: Large_Cube
+    6400010: Long_Segment
+    6400012: MiniCube
+    6400014: MiniWall
+    6400016: Platform_Step
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0500000007
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

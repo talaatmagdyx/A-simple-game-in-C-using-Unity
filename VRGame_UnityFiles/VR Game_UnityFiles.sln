@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1446FA13-1864-44FF-653A-895F0E7A23EC}") = "VR Game_UnityFiles", "Assembly-CSharp-firstpass.csproj", "{3925C597-65E9-8211-E959-5AD9235057AF}"
+EndProject
+Project("{1446FA13-1864-44FF-653A-895F0E7A23EC}") = "VR Game_UnityFiles", "Assembly-CSharp.csproj", "{BE24C6BE-4011-9854-7DD0-F16F25DEE26B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3925C597-65E9-8211-E959-5AD9235057AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3925C597-65E9-8211-E959-5AD9235057AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3925C597-65E9-8211-E959-5AD9235057AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3925C597-65E9-8211-E959-5AD9235057AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE24C6BE-4011-9854-7DD0-F16F25DEE26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE24C6BE-4011-9854-7DD0-F16F25DEE26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE24C6BE-4011-9854-7DD0-F16F25DEE26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE24C6BE-4011-9854-7DD0-F16F25DEE26B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
