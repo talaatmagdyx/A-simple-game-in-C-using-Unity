@@ -1,0 +1,5 @@
+All "Level1" scripts are commented.
+
+"ScoreController" from the "level2" folder is commented ONLY.
+
+The "Main Menu" script is commented as the rest are based from that!

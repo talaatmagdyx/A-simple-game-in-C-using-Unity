@@ -1,0 +1,3 @@
+Please remember: PSD, PNG, Targa hold tranparency.
+
+Import any of the three! PSD might be your best option, but other formats are left for your convenience!
